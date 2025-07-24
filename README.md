@@ -1,4 +1,4 @@
-------------Made by Samul/Inzur------------ @notsamul/ discord: 1nzur
+------------Made by Samul/Inzur------------ @notsamul/ discord: 1nzur                                                                                                                            
 atm.py = Basically a simple ATM in which you can check your balance/deposite cash or withdraw cash
 gradechecker.py = Converts marks in percentage into marks in grade
 multiplicationtable.py = Prints the multiplication table of any number
