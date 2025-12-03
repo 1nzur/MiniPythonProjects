@@ -14,3 +14,5 @@ sumandavg.py = It prints the sum and avg of various numbers until user is done
 wordcounter.py = It shows the no of time a specific word (given by user) is repeated on a file 
 
 celciustofaran.py = Converts celsius into fahrenheit and vice versa
+
+rockpaperscissor.py = A simple rock paper scissors game between 2 players made in python.
