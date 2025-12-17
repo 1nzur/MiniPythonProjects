@@ -16,3 +16,5 @@ wordcounter.py = It shows the no of time a specific word (given by user) is repe
 celciustofaran.py = Converts celsius into fahrenheit and vice versa
 
 rockpaperscissor.py = A simple rock paper scissors game between 2 players made in python.
+
+usernamepasswordchecker.py = A simple username and password checker
